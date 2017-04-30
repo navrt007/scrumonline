@@ -157,4 +157,3 @@ class PollController extends ControllerBase implements IController
 }
 
 return new PollController($entityManager, $cardSets);
-?>
